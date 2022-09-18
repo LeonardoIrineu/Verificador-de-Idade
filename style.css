@@ -2,6 +2,7 @@ body {
     /* background: rgba(26, 2, 94, 0.884); */
     background-image: linear-gradient(45deg, rgb(31, 31, 177),rgb(47, 245, 29));
     font: normal 15pt Arial;
+    height: 100vh;
 }
 
 header {
